@@ -3,7 +3,7 @@ Questo è il progetto per la traduzione del gioco.
 Il file da modificare è strings.po
 Ricordate che lettere accentate (à, è, ì, ò, ù) o altri caratteri simili non vengono visualizzati nel gioco per il momento, in quanto non supporta almeno per ora i caratteri unicode. Per il momento quindi, limitatevi alla lettera senza alcun accento.
 
-# Dal Forum:
+# Dal Forum: http://forums.kleientertainment.com/topic/74765-creatingusing-translation-files/?do=findComment&comment=871758
 
 # Creating a Translation File
 
